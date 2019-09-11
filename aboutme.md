@@ -9,8 +9,6 @@ The following facts are about me:
 - I am a student at Williams College
 - I'm extremely loyal to my family
 
-Is there anything else you'd like to know?
-
 If you'd like to provide me with some lunch or a tuition subsidy click [Here](https://venmo.com/account/sign-in/)
 
 My username is paul.harshbarger
