@@ -20,7 +20,7 @@ description: This website is home to lots of my hardwork
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "http://paulharshbarger.github.io/aboutme.md"
   Assignments:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Paul L. Harshbarger
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
