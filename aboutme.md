@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I am Paul Louis Harshbarger
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+The following facts are about me:
 
-- I rock a great mustache
+- I am a student at Williams College
 - I'm extremely loyal to my family
 
-What else do you need?
+Is there anything else you'd like to know?
 
-### my history
+### Inquire about me at my personal line
 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
