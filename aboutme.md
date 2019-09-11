@@ -13,6 +13,7 @@ Is there anything else you'd like to know?
 
 If you'd like to provide me with some lunch or a tuition subsidy click [Here](https://venmo.com/account/sign-in/)
 
+My username is paul.harshbarger
 
 ### Inquire about me at my personal line
 
