@@ -2,7 +2,6 @@
 layout: page
 title: Paul Louis Harshbarger
 subtitle: A little bit about me
-
 ---
 
 The following facts are about me:
@@ -15,4 +14,4 @@ If you'd like to provide me with some lunch or a tuition subsidy click [Here](ht
 
 My username is paul.harshbarger
 
-### I am thankful for you visiting my website! 
+### I am thankful for you visiting my website!
