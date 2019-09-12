@@ -1,7 +1,4 @@
-
-layout: page
-title: About me
-subtitle: I am Paul Louis Harshbarger
+# I am Paul Louis Harshbarger
 
 
 The following facts are about me:
