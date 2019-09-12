@@ -20,7 +20,7 @@ description: This website is home to lots of my hardwork
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "https://paulharshbarger.github.io/aboutme.md"
+  About Me: "aboutme"
   Projects:
   Contact Me:
   Assignments:
