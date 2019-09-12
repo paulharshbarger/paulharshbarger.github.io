@@ -1,5 +1,8 @@
 ---
-# I am Paul Louis Harshbarger
+layout: page
+title: My website
+subtitle: This is where I will tell my friends way too much about me
+use-site-title: true
 ---
 
 The following facts are about me:
