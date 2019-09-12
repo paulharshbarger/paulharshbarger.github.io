@@ -2,6 +2,7 @@
 layout: page
 title: Paul Louis Harshbarger
 subtitle: A little bit about me
+
 ---
 
 The following facts are about me:
