@@ -14,4 +14,5 @@ If you'd like to provide me with some lunch or a tuition subsidy click [Here](ht
 
 My username is paul.harshbarger
 
+I am taking this electronic textile class because I want to have a foundation for programming skills that will be valuable in the future and have the knowledge to sew clothing for myself when it rips or I need something to fit with more precision. This class is the perfect combination of the two!
 ### I am thankful for you visiting my website!
