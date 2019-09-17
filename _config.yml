@@ -69,7 +69,7 @@ author:
 social-network-links:
   rss: true
   email: "plh2@williams.edu"
-  facebook: Paul Harshbarger
+ # facebook: Paul Harshbarger
   github: paulharshbarger
   twitter: paulh7242
 #  reddit: yourname
@@ -88,7 +88,7 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   instagram: true
   snapchat: true
