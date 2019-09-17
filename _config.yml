@@ -22,10 +22,9 @@ description: This website is home to lots of my hardwork
 navbar-links:
   About Me: "aboutme"
   Projects:
-  Contact Me:
+  Contact Me: "contact"
   Assignments:
     - Homeworks:
-    - Projects:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
