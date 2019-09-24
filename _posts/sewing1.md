@@ -9,3 +9,5 @@ comments: true
 Here displayed will be my first sewing attempt. It is a step in the right direction and will need to practice to achieve perfection. 
 
 One thing I suggest as a tip/trick is to get one segment done a night, or just a little bit so that it doesn't pile up at the end. 
+
+page-img: ""
