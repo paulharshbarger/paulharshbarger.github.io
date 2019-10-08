@@ -14,4 +14,4 @@ One tip for past me for this assignment would be to be more consistent with my s
 ![Alligator Clip Prototype](https://paulharshbarger.github.io/img/alligatorclips-circuit.jpeg)
 ![Back Sampler Prototype](https://paulharshbarger.github.io/img/back-sampler.jpeg)
 ![Front Samper Prototype](https://paulharshbarger.github.io/img/front-sampler.jpeg)
-![Paper Prototype](https://paulharshbarger.github.io/img/prototype-sampler.jpeg)
+![Paper Prototype](https://paulharshbarger.github.io/img/paperproto1.jpeg)
