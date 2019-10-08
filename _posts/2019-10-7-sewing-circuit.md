@@ -11,4 +11,5 @@ The assignment for the weekend for us to use our sewing sampler and create a cir
 One tip for past me for this assignment would be to be more consistent with my stitches so that the connection is more constant. 
 
 
-![Plushy Output](https://paulharshbarger.github.io/img/plushy-output.png)
+![Alligator Clip Prototype](https://paulharshbarger.github.io/img/alligatorclips-circuit.jpeg)
+
