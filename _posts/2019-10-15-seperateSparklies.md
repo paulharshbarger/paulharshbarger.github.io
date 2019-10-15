@@ -12,6 +12,6 @@ The second picture represents the synchronous firefly that flashes once every .1
 Teh final picture represents the Big Dipper firefly that constantly increases its illuminoscity for a little over a second, every three seconds. 
 
 
-![Flash Bulb](https://paulharshbarger.github.io/img/flashBulb.jpeg)
-![Synchronous](https://paulharshbarger.github.io/img/synchronous.jpeg)
+![Flash Bulb](https://paulharshbarger.github.io/img/synchronous.jpeg)
+![Synchronous](https://paulharshbarger.github.io/img/flashBulb.jpeg)
 ![Big Dipper](https://paulharshbarger.github.io/img/bigDipper.jpeg)
