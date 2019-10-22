@@ -10,4 +10,4 @@ Each of the sparklies had its own pin so that they would all illuminate at the s
 
 One thing I would suggest for my past self is to comment better on the code so I can keep track of it with more ease.
 
-![Alligator Clip Prototype](https://paulharshbarger.github.io/img/spar.png)
+![Sparkly](https://paulharshbarger.github.io/img/sparkly.png)
