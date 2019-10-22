@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Simultaneous Sparklies 
-subtitle: Switch and Conductive Fabric Circuit
+subtitle: All Three Fireflies at Once
 tags: [test]
 comments: true
 ---
