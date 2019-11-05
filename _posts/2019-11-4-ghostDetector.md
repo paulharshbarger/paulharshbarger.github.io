@@ -12,4 +12,4 @@ When both are true all the red lights turn on and when they're not none of the l
 One tip for past me for this assignment would be more aware of the conversion code to make the code more concise.
 
 
-![Alligator Clip Prototype](https://paulharshbarger.github.io/img/alligatorclips-circuit.jpeg)
+![Ghost Light](https://paulharshbarger.github.io/img/ghost.jpeg)
