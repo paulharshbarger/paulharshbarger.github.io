@@ -13,5 +13,5 @@ The paper prototype for my final project is displayed below and features all cir
 The battery component of the shirt is so that all of the components can be powered. 
 
 
-![Plushy Output](https://paulharshbarger.github.io/img/plushy-output.png)
-![Plushy Output](https://paulharshbarger.github.io/img/plushy-output.png)
+![Array](https://paulharshbarger.github.io/img/array.jpeg)
+![Paper Prototype](https://paulharshbarger.github.io/img/paperProto.jpeg)
