@@ -25,3 +25,5 @@ https://miymakers.wordpress.com/
 ![Array](https://paulharshbarger.github.io/img/gator.jpeg)
 ![Array](https://paulharshbarger.github.io/img/pic1.jpeg)
 ![Array](https://paulharshbarger.github.io/img/proto.png)
+![Array](https://paulharshbarger.github.io/img/selfie1.jpeg)
+![Array](https://paulharshbarger.github.io/img/selfie2.jpeg)
