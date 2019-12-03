@@ -1,1 +1,14 @@
+---
+layout: post
+title: Plushy LEDs
+subtitle: Programming the Plushy we created on the computer with nested statements
+tags: [test]
+comments: true
+---
 
+The assignment tonight was for us to program a plushy switch using nested if statements, such that if the switch is on and the button is on all the lights are on, but if any of them are off all the lights are off.
+
+One tip for past me for this assignment would be to be more careful with my curly brackets because they can get out of hand and confusing quickly.
+
+
+![Plushy Output](https://paulharshbarger.github.io/img/plushy-output.png)
